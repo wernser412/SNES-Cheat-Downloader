@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         SNES Downloader PRO 👑
 // @namespace    http://tampermonkey.net/
+// @description  Descargar CHEAT de SNES de gamehacking.org
 // @version      2026.07.15
 // @author       wernser412
-// @description  Descargar CHEAT de SNES de gamehacking.org
+// @downloadURL  https://github.com/wernser412/SNES-Cheat-Downloader/raw/refs/heads/main/Snes-downloader-pro.user.js
+// @icon         https://github.com/wernser412/SNES-Cheat-Downloader/raw/refs/heads/main/ICONO.ico
+// @author       wernser412
 // @match        https://gamehacking.org/system/snes/all/*
 // @grant        GM_registerMenuCommand
 // @run-at       document-idle
